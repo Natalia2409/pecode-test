@@ -1,0 +1,4 @@
+export const GET_CHARACTERS = "GET_CHARACTERS";
+export const GET_EPISODES = "GET_EPISODES";
+export const GET_LOCATIONS = "GET_LOCATIONS";
+export const GET_CURRENT_CHAR = "GET_CURRENT_CHAR";
